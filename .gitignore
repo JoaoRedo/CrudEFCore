@@ -1,0 +1,49 @@
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Arquivos de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Arquivos de Rider
+.idea/
+*.sln.iml
+
+# Arquivos de ambiente
+*.env
+appsettings.Development.json
+appsettings.Production.json
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Arquivos de cache
+.cache/
+.npm/
+.yarn/
+
+# Arquivos de dependências
+packages/
+node_modules/
+
+# Arquivos de banco de dados
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db 
